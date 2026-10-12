@@ -1,0 +1,27 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.bak
+*.swp
+.vscode/
+.idea/
+
+# Do not commit paper PDFs, slide decks or other third-party documents
+*.pdf
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.html
+
+# Datasets / media
+*.zip
+*.rar
+*.7z
+*.mp4
+*.avi
+data/
+datasets/
